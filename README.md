@@ -13,7 +13,7 @@
   
   
 <div>
-  <h2>📫 How to reach me</h2>
+  <h2>📫 Onde me encontrar </h2>
   <a href="https://instagram.com/isabellaastos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5818F7?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelladeassissantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-5818F7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabella-astos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5818F7?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
